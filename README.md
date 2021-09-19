@@ -17,4 +17,4 @@ de datos en comercio exterior e
 investigación de mercados mediante
 diferentes lenguajes de programación.
 
-
+- JUAN PABLO MOLANO PERDOMO: Ingeniero Industrial con mas de 4 años liderando transformaciones de excelencia operacional y culturales de forma integral y estratégica a todos los procesos productivos de la compañía. Desarrollando una cultura organizacional enfocada en la resolución de problemas siendo facilitadores y agentes de cambio cercanos a la gente, buscando mejorar los procesos integrando metodologías como Lean Manufacturing, Lean Six Sigma, Kaizen, TPM y MOTOR+ y frameworks agiles.
