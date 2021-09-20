@@ -22,3 +22,5 @@ diferentes lenguajes de programación.
 - MARIA ALEJANDRA OVIEDO URANGO: Ingeniera Industrial especialista en Gerencia de Proyectos con alta capacidad de análisis, con experiencia en la mejora y diseño de procesos a través de análisis estadístico de grandes volúmenes de datos, apalancados en desarrollos tecnológicos y entendimiento del negocio. Así como también, coordinando y ejecutando acciones necesarias en todas las etapas del proyecto, como facilitadora e integradora para el logro de resultados.
 
 - ALBERTO JOSÉ MENDOZA PEÑALOZA: Soy geocientífico y me gusta la programación.
+
+- JOSE AUGUSTO MORALES GAONA: Medico cirujano, esecialista en Ingenieria Biomedica, deseo arender rogramacion para el desarrollo de aplicaciones en la medicina.
